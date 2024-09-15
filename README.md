@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./assets/logo.svg" size="300px"></img>
+    <img src="./assets/logo.png" size="300px"></img>
     <p>Terminal Calculator 🧮</p>
 </div>
 
